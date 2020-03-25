@@ -1,7 +1,11 @@
-/** Implement circular doubly linked  list
- *  Program mesures avreage access time
+/**
+ * @author Tobiasz Wojnar
+ * Algorithms and data structures Course 2020
+ * list 1 exercise 1
+ * Implement circular doubly linked  list
+ * Program mesures avreage access time
+ **/
 
- **/ 
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>

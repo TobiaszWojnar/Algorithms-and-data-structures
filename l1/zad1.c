@@ -1,6 +1,10 @@
-/** 
-* Implement queue FIFO
+/**
+ * @author Tobiasz Wojnar
+ * Algorithms and data structures Course 2020
+ * list 1 exercise 1
+ * Implement queue FIFO
  **/
+
 #include<stdlib.h>
 #include<stdio.h>
 

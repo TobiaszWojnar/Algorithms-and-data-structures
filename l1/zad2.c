@@ -1,7 +1,10 @@
-/** 
- * Implement singly linked list 
- * and mesure average time
- **/ 
+/**
+ * @author Tobiasz Wojnar
+ * Algorithms and data structures Course 2020
+ * list 1 exercise 1
+ * Implement singly linked list and mesure average time
+ **/
+
 #include<stdlib.h>
 #include<stdio.h>
 #include <time.h>
